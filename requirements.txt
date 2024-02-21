@@ -1,0 +1,5 @@
+requests~=2.31.0
+bs4~=0.0.2
+beautifulsoup4~=4.12.3
+plyer~=2.1.0
+python-dotenv~=1.0.1
